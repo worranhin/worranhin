@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hin-Worran&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-我偶然间发现了上面这个东西，然后在自己这里试了试，发现我竟然也有 A+ ，真是笑死我了！
+> 我偶然间发现了上面这个东西，然后在自己这里试了试，发现我竟然也有 A+ ，真是笑死我了！
 
 **********
 
