@@ -1,22 +1,25 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hin-Worran&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-> 我偶然间发现了上面这个东西，然后在自己这里试了试，发现我竟然也有 A+ ，真是笑死我了！
+> 我偶然间发现了上面这个东西，然后在自己这里试了试，发现我竟然也有 A+ ，真是笑死了！
 
 **********
 
 ## 我是谁
 
-我目前是就读于华南理工大学的一名学生，专业是机械电子工程。
-
-爱好广泛，包括但不限于：
+我是一名平平无奇的大学生。爱好比较广泛，包括但不限于：
 - 摄影
-- 科幻
-- SCII
-- 游戏
+- 三体
+- SCⅡ
+- Beyond
 - 旅行
-- High-tech stuff
-- 睡觉
-- 学习
+
+## 我从哪里来
+
+中国广州
+
+## 我将去往何方
+
+那个充满未知、挑战、惊喜的未来
 
 <!--
 **Hin-Worran/Hin-Worran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
