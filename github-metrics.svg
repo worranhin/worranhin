@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 5.11mb of code in 494 edited files across 147 commits</small>
+                <small>estimation from 5.12mb of code in 504 edited files across 148 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="401.40102074412977" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="401.40102074412977" y="0" width="24.944389915851268" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="426.34541065998104" y="0" width="12.653008486482573" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="438.9984191464636" y="0" width="6.797514533967336" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="445.79593368043095" y="0" width="5.25361763270491" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.04955131313585" y="0" width="4.499929558224991" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="455.54948087136086" y="0" width="3.425789784619408" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.9752706559803" y="0" width="1.0247293440197267" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="400.17006272207436" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="400.17006272207436" y="0" width="24.867894104218124" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="425.0379568262925" y="0" width="12.614206088146126" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="437.6521629144386" y="0" width="6.776668909234958" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="444.4288318236736" y="0" width="5.237506605488782" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.66633842916235" y="0" width="4.657465152894272" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="454.32380358205666" y="0" width="4.486129831512508" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.8099334135691" y="0" width="1.1900665864308322" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -64,15 +64,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Vue
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C++
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Vue
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -202,7 +202,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 22 May 2024
+                                        Last played on 23 May 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
