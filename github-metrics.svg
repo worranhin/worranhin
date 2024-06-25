@@ -178,15 +178,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAABgcIBQQDAv/EADgQAAEDAwIEAggEBQUAAAAAAAECAwQFBhEABwgSITETQRQVIiNRYXGBMkKRoRYXRLHRYnKCksH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Amir1R6oyEuPYGPw4GuDnJ+/76fG3FjWYixDdF2eO+EOKT7pzlT0+WjGyb+21N0U2iUe1lvuy3A0mQ6UqSj5kHQTTAoNXnrSiHT33VdwEp76KqbtHfNRWlSKBLbQfzqSMae26u7Y27vZ+iU+jQ1tNtocC0spByrRXtzu1OuCwq7cE2MGmqe2Vp5QAMg4xoJavTbK5rQjx36jEWWXzypUlPn8NCXq2oAEeiu4/2nVMROJ+mvq5K7bjkxAV0PsEAfHB0YUHfDbioY9JgRKfzdD4zaDj9tBFilKGUnuOnbtrop01yFMbfZwVJOeuqevOxNtr9rD1St66qdFfdSB4achAP00t7z2NqNvUaRVIlXiVKGwnnUWEnONBvbbBNX2CualYCno6FvIHn1Olpsyko3WttKhgplgH9DpjcLSxMqFx0d7qJMMBCT8cnQPtoyY++NLYIxyVNaP0KtBucVK0r3fmFByBGa/90bUVXqDhPnB0eG/UnXW+vcjORoK4qwP5vywkYHo7Xb76NuIJCaLtBZVHaV4ZeIdcHyUjOgmga9lR3UxkSFNqSytRSlwjoSPLTPhbI3HVaQxUqCtqpxXQMKYHY+Y+o0zt4tqnqNs7bsCkQlPy4ryn5HIPaBUnqCdBMLTrjPVl1aCe/KojVAWq+/D4catMkPurdlKcaR4iyegPlnSDmwZUJfJMYWyrthQxp/bqI/hzY62aejoZbhWQPMFOdAE8PFWFM3PpyVqKUSVBsnPyOt0Ur1RxM05gDAcmh3/tzHSvsyUYV3UuQk48N4EHVA39BDfEZZtRQPdy0sfqEH/OgGt+acarxEx4IHN46WE4+x19cW1QKbopdEz7MKGycfD2caMLhpvrPi8p5Ay3HQ04r7A/50neIareuN06pIByEYZH/EkaBr8H6Kw16xny5a2beaR7PiK9krz1xp8X5czEDb2q16nOM1CNFQpa+UZ5sHsNQQ5eNZVQGKM1KVHgMqK0oYJQST3yR31t2ZuPUqBQqtRJC1y6XUWvDcbWc8vXuM6D1ua9qruRXokWXHhMIW4EtpZZCTj5kd9HnFJMS29b1Fb/AKSK0op+BKMaX+yVPFU3YoLKE+5MrJB8k4OtriXqKahuxMU2fdstIZAHly5GgVoWpl5LiVYWkggjy1YtfpD1bl7V1ulxluhp9KZKh15AEdz8tSFUIL8N3wpCMHv9dMK197Lxtqgt0imvxjGbJKPFa51J++gq+l2XKRvZVLpeLZhOw22mT/rHfSBvnh8u92tVCoR3WpwkPrdT4Y64JJA76XlY3VvGrEmTU1o88NZRj99ZsO/boiP+KzV5hI8lOqI/voOuq7VXtSyr0u3ZqUj8+Bg/voTqFOmU5zw5sZ1hfwWNNGm7+3zCSG1yo0lrsUus8xx9SdEsDiBadRyV22YcwH8XKwgE/c6Dj4RqciXfkuW5jkgsB4k+XcaVd9z11O9KvIcOcynEj6BR07xvVacKkVZyhW8/T6hMZ8IkKSP7an0NvVGpq5UEuvOFfL59TnQf/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABwgABQEDBgQC/8QAOxAAAQMCAgQJCwMFAAAAAAAAAQIDBAAFBhEHEhdBExUhIjFRcXSyMjU2VFVWYZGSk6EIFCY0UmKBov/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EACARAAICAQQDAQAAAAAAAAAAAAABAhExEhMhQTJRYoH/2gAMAwEAAhEDEQA/AOjw/Zo9rhIXqqcClEDI1z0OwbRpsmBbF/snYKi4pTwzC+XLIVYaVVrZw9alR3VI1pBBCDlnR9w3Cis2eA4zGZbcXHbKloQEk80dJ31bLVci/wCwe6e1o30GpsHuntaN9Bpl+DR1VODR1Usupi0bB7p7WjfQamwe6e1o30GmX4NHVU4NHVSxqYrV2wc5o1bRMur6ZqJh4JKGQQUkbzXSzrdHvFqOq2tsBoKzKtxo8SoUWSnKTHaeAzy4VAUB86XLR8pa8SYpbccUWkFQShRzA526lkq+SaWvR20d5NMRh/zFbu7t+EUu+lr0dtHeTTEYf8w27u7fhFOivCBj+o2VIi2KzqiyHmFKlEEtLKSRkOqijZSVWeAVEkmO2STv5ooUfqXOVhsuef8AVHoHwFFax+Zbf3dvwinQfij276Cug6XKkY2xWiRJfeQhR1UuLKgnn7qNe+gboHOeOcXdPlHd/nQLDDgryT2UtGjz0pxZ2q8VMuryT2UtGjz0pxZ2q8VFgLDJpaGeHbT1mSaYiwnKxW7cP2zfhFLxpYH8dtPwkE6240ZtHmKGL5CaiMx3GlRo6NYrOetyAclKdEb4R1kmLHlpSmUw08lJzAcQFAfOtqUhKQEgAAZADdWalQhK0MQ40dxa48dlpa/KUhASVdpHTW+pQHwTyHLlFLRo8GWKMWA7lKP/AFR7xbiJnDkVl59hbyXlFASg5EHKgBo0cD9/xM8kHJwFQH9uat9WnVlTyi+xhYnMQWS3ssPJZLTylc8Z1zNmuquHeix3HWFsDUUtKtXXy5K7XCeIYr7AUpSHACeSvFirDfHTTYgz4kNaVlxSgjIkHdyVqMqMSjqVP8K3jCZ69I+6azxhM9ekfdNVuzub7wMfI1Nnc33gY/Nb3F6M7H0WXGEz16R901OMJnr0j7pqt2dzfeBj81Nnc33gY/NNxehs/Ri93pyKy0ZTr0kKVkElZOr8ausDWBy0Luct19DiZTAUEpGWQPLlWcMYSctDz65t0iTEupCUhSM9U/7q/wARXyLGgq1ShvUQEkgdOVZlKzUY6OEf/9k=" alt="" />
                             <div class="about">
-                                <div class="name">KARDS - The WWII Card Game</div>
+                                <div class="name">Aseprite</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie, Strategy, Free to Play
+                                        Animation &amp; Modeling, Design &amp; Illustration, Game Development
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -194,7 +194,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        11 hours played
+                                        21 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -202,7 +202,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 20 Jun 2024
+                                        Last played on 24 Jun 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
