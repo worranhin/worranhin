@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 37.1mb of code in 2416 edited files across 334 commits</small>
+                <small>estimation from 40.4mb of code in 2659 edited files across 382 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.17329517283753" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="219.17329517283753" y="0" width="199.6834848527225" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="418.85678002556" y="0" width="23.840273268845422" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.6970532944054" y="0" width="9.674219174909489" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="452.37127246931493" y="0" width="2.930363644222566" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="455.3016361135375" y="0" width="2.177315477537446" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="457.4789515910749" y="0" width="1.6657564947695358" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.14470808584446" y="0" width="0.8552919141555269" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.3533121022367" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="218.3533121022367" y="0" width="197.63250126633721" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="415.98581336857393" y="0" width="23.558785821993553" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.5445991905675" y="0" width="9.559993502027236" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="449.1045926925947" y="0" width="6.201369361875685" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="455.3059620544704" y="0" width="2.2027561198989267" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="457.50871817436933" y="0" width="1.6460885346961778" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.1548067090655" y="0" width="0.8451932909344875" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.33k hours played
+                            2.34k hours played
                         </div>
                     </section>
                 </div>
@@ -194,7 +194,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        124 hours played
+                                        125 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -202,7 +202,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 16 Feb 2025
+                                        Last played on 17 Feb 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
