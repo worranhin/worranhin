@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="638" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="622" class="">
     <defs>
         <style/>
     </defs>
@@ -219,7 +219,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        4 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -227,7 +227,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 4 Mar 2025
+                                        Last played on 5 Mar 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -236,32 +236,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 33 achievements unlocked
+                                            11 / 33 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCAwYH/8QALhAAAgECBQIEBAcAAAAAAAAAAQIDBBEABQYSIRMxIkFhoRQycZEVM1FSgbLx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EACARAAIBBAIDAQAAAAAAAAAAAAECEQADEiEEoTHB8FH/2gAMAwEAAhEDEQA/AO25jmOYrnpy+lkihu8Zj3ID1Espc3IPPzDjtx9caNGbpgFlYju20c+2MznU/Rz2omYm1LTpItv1K8n7L7nEcn1HHUCFFeKZ1Rg3TYWBBA/z0xTdsO6hk/PvVXXjkBiIimNRm1RHX1USdFlRgioIGYi6g7jtBv3PHF7d8AaezqszDOaqCokieFZXROmgUWVAQR58+pPfAOe5vI9fTskxp4opShPVCDdtVhc+fF+4OKtLSyPqyfqEuxLF/GGIbYbk9ja20XsBcWxStkLayYCY7pXE47qzu7SIMa8bB6GqN1Kp/E8wWxLS0ihAOd1lN/7D74s03pakD1VVV01I8NS26BIzuCoWZgR5DhgLD9uCdQZZV1dZFVUSqzpYfOFNrWI59QDhKmQ52kTQ0/UhVN0356lXfeCFXxXW6lwbbbk8nA5TaENBp2KyN0DmWnzTagLRULUcL1G2GVCroYhFb67yQTz7+bTSERj1E7xyrNEIp4iqxCPpG6kDgAG+0mwHH8jB01NnVRTUUUtHTJ8O7kLE6qtgCqWG424N++JaeySejqI6mtuZF3kAyBgm6/YDi/J579+cZdcmyACJ9fRRo5VTbB1vuv/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHAgP/xAAsEAACAgEDAwMDAwUAAAAAAAABAgMEEQUGEgAhMQcTIhRBYRYycSM0QoGy/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUAA//EACURAAEEAQMDBQEAAAAAAAAAAAECAxEhBAAxQRJRYQUTInGRQv/aAAwDAQACEQMRAD8Aousa1rdjdNvb+iWIK1lHg9stAHJjZUZ3OQfHJh28DH89UvToESlGkksduRRxeYoo5sDg9gMDvnt1JNwtLT3veuU5DFaZ4UEg+wEMfb+Dy7j74HRO29/v9LBNA0N+jXj9hBFLg5OCORGRyUDH++qj3pbrqUONK4FbdyfvgasZTyHghpuBQ8EmgZPlUgCeCdFa3vTVKO8Nc06rWozw1nSvBCtGaWRC0Kye4xjDcv3NhCEyEPyGD0B6b7x1Tc+p3E1GSnJCLM0Mf0sIROMa5DL3J74z3J8n8dY3HvO5Yt0LYuw6ZXhtpOU5KXePBVowSMEkjz5AY+fHS/03vz6nv7Vbr2xajnsT4TCiSHjGV+aj/HHEBx8e2OxOOmOsNtY4K0pSoAA3JnpI7RZvf90H0xDqch4PSUhKgDHx6hBoxuBI3N+dHbokT9XXVJGY5oWfPYAGGPH/ACem2wtjQ3Leoa1qlGtUp6hHEKVahdZlSNS5BzHxXBVlwBkADpF6g7R13V9a1C5o0aMJY4ZIH99UKSxqFwQxHkBx9x8hn8KNN2fvirS+moM9GvBTjnjrtcj9trKMoaNeLcoy6mYkoU5cxybuetkhBxW3WnB1gRE3cTz3Hbj97u47XvRP8i75gkUQJ6lKo7BIud+W7NrS0d2tYpaBJpUULELdJSWOaLDIG5+WlbsxD/knP3ZelEtyHecyWvaf+har8IoFhECsI5I/2AKxYKxwACPJ8jo/Uz6h6ltxaljQ9LjMJ9uKtVmjiTAyFfvIewAHxBH7vx1jZ20Nd0/dtHUdY/t6df2wTZV1L+yYyVVSe5JJ5MM4z3+3RXsUHCHStIVMn5SYFkATuSAL++NNw3HW0uYaljoAURfhBCQebKquIia1/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>(Un)happy End World</div>
-                                                <div class="unlocked">4 Mar 2025</div>
+                                                <div>INTERNET OVERDOSE</div>
+                                                <div class="unlocked">5 Mar 2025</div>
                                             </div>
-                                            <div class="description">I am a superstar with a big, big house and a big, big car! I am a superstar and... I don't really care, actually.</div>
+                                            <div class="description">Please take only the recommended internet dosage.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgP/xAAsEAACAgECBgAFBAMAAAAAAAABAgMRBAUhAAYHEhMxFCIyQVEVM0JhU6HR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAMBAgQG/8QAJREAAQIFAwQDAAAAAAAAAAAAAQADAgQFESFBUZESEzHBYXHw/9oADAMBAAIRAxEAPwBx5o5gGgqZZfIYi6RIkUas8jspah3ED0GO5Aofmry+X1Ik8DDB0/ObJNBPiYoFjWz9TdshJA90NzVWLvjn1D1SVdUz9NzMfFbDyIliSCeB5TkWikMvaws93y9ooqe1r3AI78DFDlaVFj47+B44zIBipOpJO/dL/wA+3GqEg4AXR0+nNvwmJ6+hwR7HtMmF1HyliZdTwZ2yFNCTBhi8TitiA8gZfxVn1d70JnTzmLWddz3GolfCkVTRssatHKR3L29u5XZxZ9gKBZVjwMS4EL8ytjNjMMJgQVGEojrs/wAo3G/++E7oJj4cWmZ82FBHGWz58dpVdm8yRpcZNkjbyMNqsVdngMIIum1KRZlGzG0PJtkjGuNeSpvWTUIMLCSCUok+bIkUMhXuKUFLUo+Zu4WhramNkWAS1IsfEg+NlXAhx4XHcf09o2G49Wb+/uuHDnTleTX3E+IyQ5saqIpiwAIHuN7/AInfcbrdj7glkPKPN0LSFeUi5ftsy6rFJ9JtfqY+ib4m9wAm0WalpduLuRWi+dv30ql4YNTyBPjfASRyoHV5MMvY9bvYF/1743PRXUCmrahovklykxyZlkiiC4+PYYGIV9JJ3qze/og3Dx+m3NWdjebVZ9EDFUaPBYF0Bv5u9/4sBsCoYH+vfF30j0HmHQMnLg1DS8bTNG/dSE5CzytOQVLKyk0vaBYP4FffguLFWqtQYmpfobIJBG44xnlf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQIDBgEE/8QAKBAAAgICAQMFAAEFAAAAAAAAAQIDBAUREgAGMQcTFCEiMhYjQWFx/8QAFwEBAAMAAAAAAAAAAAAAAAAABAADBf/EACMRAAEDAgUFAAAAAAAAAAAAAAEAAhEDEhMxQVFhISORwfD/2gAMAwEAAhEDEQA/AN73Vn8xT7llq0LXsVIeKiIQRl7DGNX4oz7255EH60AF8lgCZH6gZG9b7djqXa4eex7dustMc0XmAvNyNMSNnahdff11L1OgtX8xerwdt3bLCGuK12LnwR9Au/EDTEjin344DqnG4zMjP169apdgmhsR/Is/H4i4BxEn9wAHWwSATpxokcv5WVgRTLht6Uxu5DjrvypT9/5Knb7hjs5Cv7lex7dSsaalpF5kNxcDSkDR2wbfSXaPceYv9yxVL9oT1ZuSmIwRhoGEbPxdk1phxA8aILeCCBnMvXv/ANR269mOxLNJZl9mf2tioDyCfsjfkgkA6UbP8vHs9LmNbO46s2DsQSmGwLFt2YrI3ElH4kaUqOS/XnkejUHlzQ4ZwNc+evxTLHgzBVnqXctUs5k5Yu47tV1irmtSiL8ZGKqHXYOlIGm+/PLomhms0cxBLFkL8ryTJ7sPyCRXB1z/ABvx9kb8KNf58aXvPtjMZHuSa3jqonrzBT7gsRq0REaptVbWmHEneyCCvgjYLTsDK13wZrYyBZoJi9qyLqlpV5gryQnSkDY/JO+tWm5oARzSFxNqEyd3IHN2pp7FlJVnkMcZl18jRPH87/59+GH+/LPpgTP3Bipzm7FiZorJsVHVgsTBGCLyJ0xI231449dfsHK2HzhsYuBpp5g9Wybqhol5ktxQHTEjQ/RGuk+yu18xje5IbmRqiCvCGPufIjYykxsm2Vd7Ylgd7AADeSd9GcG3G1LxHOAmfOa//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fallen Angel</div>
-                                                <div class="unlocked">4 Mar 2025</div>
+                                                <div>Welcome To My Religion</div>
+                                                <div class="unlocked">5 Mar 2025</div>
                                             </div>
-                                            <div class="description">Fly away now, fly away now, fly away...</div>
+                                            <div class="description">Come and worship KAngel...</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+9 others...</div>
                                         </div>
                                     </div>
                                 </div>
