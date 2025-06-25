@@ -5,6 +5,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worranhin&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+Hi, I'm Hin.   
+- 🌱 I'm currently studying Mechanical Engineering for my doctoral degree.
+- ⚡ I like learning modern techs about Web and software.
+- 😄 For hobbies, I play games, watch animes, listen musics, take photography, etc.
+- 📫 And, here is my personal blog: https://worranhin.github.io/
+
 <!--
 **Hin-Worran/Hin-Worran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
